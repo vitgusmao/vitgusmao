@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Vitor 👋
 
-<!--
-**vitgusmao/vitgusmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer based in Rio de Janeiro, with a CS degree from UFRRJ.
+At work I build and lead features end-to-end; on my own time, I build my own products.
 
-Here are some ideas to get you started:
+## ⭐ Live
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Cafeverso** — bilingual (pt-BR/en) coffee platform, with authentication, transactional email and i18n. → http://cafeverso.code-brew.io/
+  Next.js · Prisma · PostgreSQL · Auth.js · Vitest
+
+- **CodeBrew** — my freelance brand's site. → https://code-brew.io/pt
+
+## 🚧 Building
+
+- **Vira One** — enterprise AI conversation orchestration: multi-tenant, multiple LLM providers, human handoff, editable memory, tracing.
+- **Mercou** — scan a Brazilian receipt's NFC-e QR code and get your personal spend dashboard. FastAPI · SQLAlchemy 2 async · Expo/React Native.
+- **Placar** — invite-only tournament app with randomized brackets and standings. Vite · React · Supabase.
+
+## 🛠️ Stack
+
+Python · TypeScript · JavaScript · React · Node.js · Next.js · SvelteKit · FastAPI · Express · Laravel · PostgreSQL · MongoDB · Supabase · Docker · CI/CD
+
+## 📫 Contact
+
+LinkedIn: linkedin.com/in/vitor-loura
