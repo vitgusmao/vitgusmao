@@ -10,11 +10,13 @@ At work I build and lead features end-to-end; on my own time, I build my own pro
 
 - **CodeBrew** — my freelance brand's site. → https://code-brew.io/pt
 
+<!--
 ## 🚧 Building
 
 - **Vira One** — enterprise AI conversation orchestration: multi-tenant, multiple LLM providers, human handoff, editable memory, tracing.
 - **Mercou** — scan a Brazilian receipt's NFC-e QR code and get your personal spend dashboard. FastAPI · SQLAlchemy 2 async · Expo/React Native.
 - **Placar** — invite-only tournament app with randomized brackets and standings. Vite · React · Supabase.
+-->
 
 ## 🛠️ Stack
 
